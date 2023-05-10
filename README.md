@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club: EDA Case Study
+> Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return.
 
 
 ## Table of Contents
